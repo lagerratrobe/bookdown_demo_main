@@ -673,7 +673,7 @@
   },
   "files": {
     "_book/404.html": {
-      "checksum": "e94ae5231b26ae43d1c62e5ba7b0c1a8"
+      "checksum": "0d2604e6260813c1228716bb973642ba"
     },
     "_book/applications.html": {
       "checksum": "2583b0d248ab46b22a00ffbed20dd70d"
@@ -694,7 +694,7 @@
       "checksum": "2e645427c707448de64e707c0290ebe2"
     },
     "_book/index.html": {
-      "checksum": "0fcf67f1c690fc4448edfc70dcd0dedf"
+      "checksum": "63b4f92e0eeb903dcfb0ef435dd534e0"
     },
     "_book/intro.html": {
       "checksum": "58feb5bc7db446aebe979906e261e326"
@@ -808,7 +808,7 @@
       "checksum": "05e6012a54007cb6e7ad52c4bf8b2717"
     },
     "_book/search_index.json": {
-      "checksum": "bbfa2dd069cc130002aff16ef120de7c"
+      "checksum": "0b905f419bf0c55b5eb7a48ccd54656f"
     },
     "_book/search.json": {
       "checksum": "c0a636463a81e13ae0c0b78a34fd650f"
@@ -836,9 +836,6 @@
     },
     "_publish.R": {
       "checksum": "4ec2419271a0160c19a1070c6f90af65"
-    },
-    ".travis.yml": {
-      "checksum": "40e7ccfeb21e389814ce6dbc306126be"
     },
     "01-intro.Rmd": {
       "checksum": "bb46440e1ca19e6ca0b0d0d79465940c"
